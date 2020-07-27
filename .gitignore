@@ -1,3 +1,6 @@
+.idea/
+datas/nasdaq-100-quotes/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
